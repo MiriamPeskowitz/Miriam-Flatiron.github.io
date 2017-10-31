@@ -5,7 +5,7 @@ date:       2017-10-31 17:10:56 -0400
 permalink:  i_didn_t_want_to_break_my_code
 ---
 
-## Miriam Peskowitz
+# Miriam Peskowitz
 
 I was so excited to learn web-scraping. I’d taken a workshop a while back using Python and the descriptively-named Beautiful Soup library, and I'd worked on some APIs for my Code for Philly project. I couldn’t wait for this part of the Flatiron curriculum and for the first project: the vaunted CLI Data Gem project. I was geek-thrilled to watch the video about bundling, too, and requirements, a combination of mysteries I’d always wanted to solve: where all these files with fancy names come from and what they do, and how you tell files to interact with each other. I was a happy camper. 
 
@@ -14,7 +14,7 @@ I was so psyched about my mini-gem. It worked. It scraped four kernels of daily 
 
 ![Round 1](http://res.cloudinary.com/tech-stories/image/upload/c_scale,e_trim:10,h_197/v1509472154/Screen_Shot_2017-10-18_at_9.29.08_AM_vzxpku.png)
 
-## You Know the Downfall's Coming
+# You Know the Downfall's Coming
 
 Except, as Tech Coach Enoch noticed about 28 minutes into one of our sessions, it worked without actually using Object Orientation. 
 
@@ -45,7 +45,7 @@ Indeed, the example we watched in video after video was baby = Baby.new. Objects
 
 You'd think I'd jump back in, rework my dear gem and move on. After months spent with Javascript, I loved the literary wordiness of Ruby. In truth, though, it was hard to reopen the Sublime files.
 
-## Code-attachment
+# Code-attachment
 To code my Day Starter gem to the next level, I had to break it, and I didn't want to do that. 
 
 Like everything else, coding is emotional and human; it emerges from how we like to do our work, from our quirky habits of creativity, and what we like to hold onto. At the same time as I was coding the gem, I was editing a 60 page chapter for a book, a chapter about Python projects for beginners. My goal: as much as possible, remove the abstraction, clear away anything that could break a reader’s attention and highlight the anecdotes and fun part .I was no stranger to taking things apart to make them better. 
@@ -54,7 +54,7 @@ Yet my gem went untouched for days, frozen in time.
 
 I didn't want to destroy what was working. The fact that no one in their right mind would care about or use an app that pushed information to the Terminal finally convinced me go in and make changes. We hold onto silly things. I made myself fetch the files from my github repo, and start the destructive-creative process. 
 
-## Happy Ending? 
+# Happy Ending? 
 I started over. It happens. I chose one site to scrape from: audiodharma.org and checked that it’s HTML was relatively organized. It was, with nothing unseen manipulating the DOM. I reread lessons, watched more videos, signed up for studyhalls and codealongs and labs. The new-and-much-simpler app scraped five of the most recent meditations on AudioDharma – because when you want to listen to a meditative talk, you don’t really need to spend 20 minutes swiping through the site to pick the best and most perfect one. You choose, and then realize you're out of time. You want five, or even one, so you can get right to it. That's what my data gem offers. 
 
 ![Code snippet](http://res.cloudinary.com/tech-stories/image/upload/v1509473741/Screen_Shot_2017-10-31_at_2.15.08_PM_te9ztx.png)
@@ -65,7 +65,7 @@ The new gem, Meditation, was simpler but went deeper. It initiatlized with actua
 
 (Thanks to Corinna for pointing out that most windows machines block system/open, and suggesting I add the actual url instead.)
 
-## The Grand Finale
+# The Grand Finale
 Go to Rubygems.org, type meditation in the search bar, and you'll see my gem.
 
 [Meditation on Rubygems.org ](https://rubygems.org/gems/meditation)
