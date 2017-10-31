@@ -5,7 +5,7 @@ date:       2017-10-31 17:10:56 -0400
 permalink:  i_didn_t_want_to_break_my_code
 ---
 
-## **Miriam Peskowitz**
+## Miriam Peskowitz
 
 I was so excited to learn web-scraping. I’d taken a workshop a while back using Python and the descriptively-named Beautiful Soup library, and I'd worked on some APIs for my Code for Philly project. I couldn’t wait for this part of the Flatiron curriculum and for the first project: the vaunted CLI Data Gem project. I was geek-thrilled to watch the video about bundling, too, and requirements, a combination of mysteries I’d always wanted to solve: where all these files with fancy names come from and what they do, and how you tell files to interact with each other. I was a happy camper. 
 
@@ -14,7 +14,7 @@ I was so psyched about my mini-gem. It worked. It scraped four kernels of daily 
 
 ![Round 1](http://res.cloudinary.com/tech-stories/image/upload/c_scale,e_trim:10,h_197/v1509472154/Screen_Shot_2017-10-18_at_9.29.08_AM_vzxpku.png)
 
-## **You Know the Downfall's Coming**
+## You Know the Downfall's Coming
 
 Except, as Tech Coach Enoch noticed about 28 minutes into one of our sessions, it worked without actually using Object Orientation. 
 
