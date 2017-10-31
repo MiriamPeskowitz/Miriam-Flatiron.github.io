@@ -66,7 +66,7 @@ The new gem, Meditation, was simpler but went deeper. It initiatlized with actua
 (Thanks to Corinna for pointing out that most windows machines block system/open, and suggesting I add the actual url instead.)
 
 ## The Grand Finale
-Go to Rubygems.org, type meditation in the search bar, and you'll see my gem, version 0.1.1.
+Go to Rubygems.org, type meditation in the search bar, and you'll see my gem.
 
 [Meditation on Rubygems.org ](https://rubygems.org/gems/meditation)
 
