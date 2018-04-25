@@ -10,14 +10,7 @@ permalink:  do-something_a_sinatra_app
 I built Do-Something to address a despair of the Trump era: there was so much to do to resist, and yet, it gets wearisome, draining. It’s hard to feel like ordinary actions matter, that they add up. I start each day walking my dog in nearby woods, and of my friends, the other dogwalkers, many are activists. I’d listen to them talk each morning, and from those conversations came Do-Something, which is a place to keep track of your actions each day. 
 
 
-Do-Something is a fairly basic CRUD application, with signup, login and password-security, using the Ruby helper has_secure_password and the BCrpyt gem. 
-
-
-Here’s the has_secure_password documentation from the [IRuby docs AP](http://api.rubyonrails.org/classes/ActiveModel/SecurePassword/ClassMethods.html#method-i-has_secure_password )
-and from  [API Dock](https://apidock.com/rails/v4.0.2/ActiveModel/SecurePassword/ClassMethods/has_secure_password).
-
-
-When using has_secure_passwrod, make sure that your schema for the User table includes a password_digest column. 
+Do-Something is a CRUD application that follows RESTful conventions. A user can add/edit/delete and read their entries.   It uses ActiveRecord to store and retrieve data  from a SQLite3 database. For privacy, it has signup, login and password-security, using the Ruby helper has_secure_password and the BCrpyt gem. 
 
 
 ![](http://res.cloudinary.com/tech-stories/image/upload/c_scale,w_577/v1524668899/carbon_29_xnxjr1.png)
