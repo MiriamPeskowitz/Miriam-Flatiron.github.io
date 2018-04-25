@@ -99,6 +99,7 @@ Now for the fun: check your repo.
 
 After the initial hub setup, when you're ready to create the repo, use alias git=hub, add and commit, create -d "file name", and push. 
 
+More on hub [here](https://hub.github.com/) and [here](https://github.com/github/hub).
 
 >Q. How'd you get command line code to look like that? 
 
