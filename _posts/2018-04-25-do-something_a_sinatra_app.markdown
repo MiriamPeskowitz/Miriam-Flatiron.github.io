@@ -13,10 +13,6 @@ I built Do-Something to address a despair of the Trump era: there was so much to
 Do-Something is a CRUD application that follows RESTful conventions. A user can add/edit/delete and read their entries.   It uses ActiveRecord to store and retrieve data  from a SQLite3 database. For privacy, it has signup, login and password-security, using the Ruby helper has_secure_password and the BCrpyt gem. 
 
 
-![](http://res.cloudinary.com/tech-stories/image/upload/c_scale,w_577/v1524668899/carbon_29_xnxjr1.png)
-
-
-
 In its current iteration, Do-Something has a User model/table and a Things model/table, the latter being the things one does each day. Though at first emerging from my sense of what my activist friends needed, the idea broadened to include all the things we do each day to feel part of something larger than ourselves. it might be resisting government policy. It might be contributing to a sense of community in our daily lives. It might be taking care of ourselves when all that work is exhausting us. 
 
 
