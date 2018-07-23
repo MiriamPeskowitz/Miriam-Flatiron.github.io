@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What Building an App about Soupkitchens Taught Me"
-date:       2018-07-23 18:40:23 +0000
+date:       2018-07-23 14:40:24 -0400
 permalink:  what_building_an_app_about_soupkitchens_taught_me
 ---
 
