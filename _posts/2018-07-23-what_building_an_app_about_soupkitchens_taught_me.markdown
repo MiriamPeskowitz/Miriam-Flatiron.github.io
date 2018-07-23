@@ -28,15 +28,11 @@ So what did I learn about coding from this project?
 
 1. I feel in love with tests.
 
-I know, it’s a cliché in ever dev’s journey, wherein they fall in love with testing and devote themselves to Rails forever. Not to say that I wrote tests – I did write a few, but that’s far from the process I’ll do for my next project, which is write a test for every feature, as I build that feature. It would have made my life so much easier. Without tests, I was left only with my own eyes scanning my code in response to catchall browser errors like this LoadError that really meant to say: you’ve got a syntax problem somewhere, with commenting out code, trying pieces in the console. So, next phase: writing tests. 
+I know, it’s a cliché in ever dev’s journey, wherein they fall in love with testing and devote themselves to Rails forever. Not to say that I wrote tests – I did write a few, but that’s far from the process I’ll do for my next project, which is write a test for every feature, as I build that feature. It would have made my life so much easier. Without tests, I was left only with my own eyes scanning my code in response to catchall browser errors like that really meant to say: you’ve got a syntax problem somewhere. Without tests, you're stuck with manually commenting out code, running snippets in the console. 
 
+So, next phase: writing tests. And next project: write tests first. 
 
-
-!(http://res.cloudinary.com/tech-stories/image/upload/v1532370474/Browser%20Error%20screenshot.png/)
-
-
-
-Because writing tests means you really know what your code is supposed to do. During my last few tutorials with tech coaches, the same theme has been reaching me: you can’t know how to fix something until you know what you’re trying to accomplish. You can’t know what you’re trying to accomplish unless you really understand routing, MVC, associations and databases. The take-away: know your stuff. Really. The second take-away, know what your methods are supposed to return. Because when you’re really stuck, knowing return values is a super power. 
+Because writing tests means you really know what your code is supposed to do. During my last few tutorials with tech coaches, the same theme has been reaching me: you can’t know how to fix something until you know what you’re trying to accomplish. You can’t know what you’re trying to accomplish unless you really understand routing, MVC, associations and databases. The take-away: know your stuff. Really. The second take-away, know what your methods are supposed to return. Because when you’re really stuck, knowing return values is a super power. And writing tests means you're clear from the get go about what your code should do. 
 
 2. Slowing down.
 
