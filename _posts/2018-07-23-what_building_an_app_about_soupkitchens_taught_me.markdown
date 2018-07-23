@@ -26,7 +26,8 @@ And so I began. The resulting code is at https://github.com/MiriamPeskowitz/soup
 So what did I learn about coding from this project? 
 
 
-## I feel in love with tests
+1. I feel in love with tests.
+
 I know, it’s a cliché in ever dev’s journey, wherein they fall in love with testing and devote themselves to Rails forever. Not to say that I wrote tests – I did write a few, but that’s far from the process I’ll do for my next project, which is write a test for every feature, as I build that feature. It would have made my life so much easier. Without tests, I was left only with my own eyes scanning my code in response to catchall browser errors like this LoadError that really meant to say: you’ve got a syntax problem somewhere, with commenting out code, trying pieces in the console. So, next phase: writing tests. 
 
 
@@ -37,13 +38,16 @@ I know, it’s a cliché in ever dev’s journey, wherein they fall in love with
 
 Because writing tests means you really know what your code is supposed to do. During my last few tutorials with tech coaches, the same theme has been reaching me: you can’t know how to fix something until you know what you’re trying to accomplish. You can’t know what you’re trying to accomplish unless you really understand routing, MVC, associations and databases. The take-away: know your stuff. Really. The second take-away, know what your methods are supposed to return. Because when you’re really stuck, knowing return values is a super power. 
 
-## Slowing down
+2. Slowing down.
+
 Slowing down while writing code, so that careless mistakes don’t get there in the first place. And slowing down while debugging, especially, really reading SQL statements to see if my code is doing what I think it is. Slowing down to test in the console. Slowing down to really learn new topics that come up, or slowing down enough to scroll to the bottom of a Stack Overflow thread, not just try to pop in the first suggestion.  
 
- ## Oh no, the envronment!
+ 3. Oh no, the envronment!
+ 
  Sometimes it really is the environment’s fault. Near the beginning of this project, I had my first major bummer of an environment problem. I still don’t know how I got there, but somehow my app started running Rails 3.2 even though I’d upgraded to Rails 5.2, and when I dug around, there were several Ruby versions catapulting into each other. What did I learn, when the problems get really weird,  check ruby –v and rails –v. Learn what’s making the programs themselves run, or not. 
 
 
-##  What’s next?
+What’s next?
+
 First, the Rails eval, of course, and then, getting up with my Code for Philly team and getting some feedback; deploying the app on Heroku so others can see it, and getting it back to the city for their feedback, and for moving the app into the world so it can be useful
 
