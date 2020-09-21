@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Following my SPA into the DOM Living Standard docs"
-date:       2020-09-21 17:50:31 +0000
+date:       2020-09-21 13:50:32 -0400
 permalink:  following_my_spa_into_the_dom_living_standard_docs
 ---
 
